@@ -7,6 +7,12 @@ const userInput = readline.createInterface({input, output});
 
 
 // Voeg hier je eigen code in
+let name = await userInput.question('Wat is je naam?');
+console.log(name);
+let age = await userInput.question('Hoe oud ben je?');
+console.log(age);
+let favoriteGame = await userInput.question('Wat is je lievelingsgame?');
+console.log(favoriteGame);
 
 
 
