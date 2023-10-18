@@ -1,4 +1,6 @@
-// Voeg hier je eigen code in
+let name = 'noussaiba'; 
+let age = 19;
+let favoriteGame = 'Realm of Companions';
 
 
 
